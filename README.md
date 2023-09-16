@@ -1,26 +1,15 @@
-# Machine Learning With Python
+<h1 align="center">
+    AI Engineering
+</h1>
 
-1. Regression/Estimation
-    - Predicting continuous values
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=LinkedIn&message=https://www.linkedin.com/in/cassianodess/&color=8257E5&labelColor=000000" alt="@cassianodess" />
+</p>
 
-1. Classification
-    - Predicting the item class/category of a case
+1. [Machine Learning with Python](./machine_learning/)
+1. [Introduction to Deep Learning & Neural Networks with Keras](./deep_learning/)
+1. [Introduction to Computer Vision and Image Processing]()
+1. [Deep Neural Networks with Pytorch]()
+1. [Building Deep Learning Models with TensorFlow]()
+1. [AI Capstone Project with Deep Learning]()
 
-1. Clustering
-    - Finding the structure of data; summarization
-
-1. Associations
-    - Associating frequent co-occurring items/events
-
-1. Anormaly detection
-    - Discovering abnormal and unusual cases
-
-1. Sequence mining
-    - Predicting next events; click-stream (Markov Model)
-
-1. Dimension Reduction
-    - Reducing the size of data (PCA)
-
-1. Recommendation System
-    - Recommending items
-    
